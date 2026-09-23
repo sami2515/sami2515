@@ -1,0 +1,71 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071a17"/>
+      <stop offset="55%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#134e4a"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="10%" r="65%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="92%" cy="85%" r="55%">
+      <stop offset="0%" stop-color="#99f6e4" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#99f6e4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#ccfbf1" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#glow1)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#glow2)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#grid)"/>
+
+  <g opacity=".25" fill="none" stroke="#a7f3d0">
+    <circle cx="1010" cy="83" r="58"/>
+    <circle cx="1010" cy="83" r="82"/>
+    <circle cx="1010" cy="83" r="106"/>
+    <path d="M930 83h160M1010 3v160"/>
+  </g>
+
+  <g transform="translate(74 72)">
+    <rect x="0" y="0" width="84" height="84" rx="22" fill="#ecfeff" fill-opacity=".12" stroke="#ccfbf1" stroke-opacity=".25"/>
+    <path d="M25 22h34c6 0 11 5 11 11v18c0 6-5 11-11 11H45l-12 13v-13h-8c-6 0-11-5-11-11V33c0-6 5-11 11-11z" fill="#ccfbf1" fill-opacity=".95"/>
+    <path d="M31 40h22M31 49h17" stroke="#0f766e" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <text x="185" y="100" fill="#ffffff" font-size="22" font-family="Inter,Arial,sans-serif" font-weight="600" letter-spacing="3">
+    SOFTWARE • WEB • CLOUD • AI
+  </text>
+
+  <text x="185" y="155" fill="#ffffff" font-size="54" font-family="Inter,Arial,sans-serif" font-weight="800">
+    BUILDING DIGITAL PRODUCTS
+  </text>
+
+  <text x="185" y="202" fill="#ccfbf1" font-size="23" font-family="Inter,Arial,sans-serif">
+    Practical engineering • modern architecture • real-world projects
+  </text>
+
+  <g transform="translate(185 239)">
+    <rect x="0" y="0" width="155" height="36" rx="18" fill="#ecfeff" fill-opacity=".12" stroke="#ccfbf1" stroke-opacity=".25"/>
+    <text x="78" y="24" text-anchor="middle" fill="#ffffff" font-size="15" font-family="Inter,Arial,sans-serif" font-weight="700">
+      TESTTAYAR.PK
+    </text>
+  </g>
+
+  <g transform="translate(355 239)">
+    <rect x="0" y="0" width="128" height="36" rx="18" fill="#ecfeff" fill-opacity=".12" stroke="#ccfbf1" stroke-opacity=".25"/>
+    <text x="64" y="24" text-anchor="middle" fill="#ffffff" font-size="15" font-family="Inter,Arial,sans-serif" font-weight="700">
+      CLOUDFLARE
+    </text>
+  </g>
+
+  <g transform="translate(498 239)">
+    <rect x="0" y="0" width="108" height="36" rx="18" fill="#ecfeff" fill-opacity=".12" stroke="#ccfbf1" stroke-opacity=".25"/>
+    <text x="54" y="24" text-anchor="middle" fill="#ffffff" font-size="15" font-family="Inter,Arial,sans-serif" font-weight="700">
+      AI
+    </text>
+  </g>
+</svg>
