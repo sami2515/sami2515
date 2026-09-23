@@ -93,10 +93,14 @@ A study platform for government-job test preparation, built around typing practi
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sami2515&bg_color=0d1117&color=5eead4&line=14b8a6&point=ccfbf1&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sami2515&theme=github_dark"
+    alt="Muhammad Sami GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ---
