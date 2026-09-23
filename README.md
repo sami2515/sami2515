@@ -108,9 +108,12 @@ A study platform for government-job test preparation, built around typing practi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sami2515/sami2515/gh-pages/github-snake.svg" alt="GitHub contribution snake" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami2515/sami2515/gh-pages/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sami2515/sami2515/gh-pages/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/sami2515/sami2515/gh-pages/github-snake.svg" alt="GitHub contribution snake" width="95%">
+  </picture>
 </p>
-
 ---
 
 ## 🔭 Currently Exploring
