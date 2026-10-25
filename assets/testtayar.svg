@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="266" viewBox="0 0 690 266">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EAFFDF"/><stop offset="1" stop-color="#BDF3CB"/></linearGradient>
+  <linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#116D64"/><stop offset="1" stop-color="#0C403D"/></linearGradient>
+  <clipPath id="clip"><rect width="690" height="266" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)"><rect width="690" height="266" fill="url(#bg)"/>
+<path d="M0 207 H690 M438 0 V266" fill="none" stroke="#285F4B" stroke-opacity=".12"/>
+<text x="31" y="42" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="750" letter-spacing="2.4" fill="#2D6F5A">01 / LIVE PLATFORM</text>
+<text x="30" y="110" font-family="Inter,Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="-1.8" fill="#0F3431">TestTayar.pk</text>
+<text x="32" y="147" font-family="Inter,Arial,sans-serif" font-size="16" fill="#406E60">Exam preparation, reimagined.</text>
+<text x="31" y="240" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700" fill="#134A41" letter-spacing="1">EXPLORE PROJECT     ↗</text>
+<!-- Mini product UI -->
+<g transform="translate(457 43) rotate(-8 107 97)">
+ <rect x="0" y="0" width="198" height="185" rx="17" fill="#0C4C46" opacity=".16" transform="translate(6 8)"/>
+ <rect x="0" y="0" width="198" height="185" rx="17" fill="#F8FFF5" stroke="#2A8A72" stroke-opacity=".3"/>
+ <rect width="198" height="39" rx="17" fill="url(#c)"/><path d="M0 22 H198 V39 H0Z" fill="url(#c)"/>
+ <circle cx="22" cy="20" r="5" fill="#BBFAAA"/><rect x="35" y="17" width="78" height="6" rx="3" fill="#A4E3CE" fill-opacity=".73"/>
+ <text x="17" y="69" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#387667">DAILY PRACTICE</text>
+ <rect x="17" y="79" width="162" height="9" rx="4.5" fill="#D6EAE1"/>
+ <rect x="17" y="79" width="119" height="9" rx="4.5" fill="#19A98B"/>
+ <rect x="17" y="101" width="76" height="28" rx="7" fill="#DEF6E7" stroke="#50B58F"/><text x="31" y="120" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#1B5F4E">A</text><path d="M72 115 l5 5 8 -11" fill="none" stroke="#1B5F4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ <rect x="103" y="101" width="76" height="28" rx="7" fill="#F2F6F0" stroke="#DAE4D9"/><text x="117" y="120" font-family="Arial,sans-serif" font-size="12" fill="#57776D">B</text>
+ <rect x="17" y="138" width="162" height="29" rx="7" fill="#0F655A"/><text x="64" y="156" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="white">Next question  →</text>
+</g>
+<rect x=".5" y=".5" width="689" height="265" rx="17.5" fill="none" stroke="#145F51" stroke-opacity=".25"/>
+</g></svg>
