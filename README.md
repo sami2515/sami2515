@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/hero-animated.svg" width="100%" alt="Muhammad Sami — animated developer identity" />
+  <a href="https://wa.me/923182402515">
+    <img src="./assets/hero.gif" width="100%" alt="Muhammad Sami — WhatsApp @muh.sami" />
+  </a>
 </p>
 
 <p align="center"><b>I turn ideas into products people can actually use.</b><br />Independent developer building web products, cloud systems &amp; practical AI.</p>
