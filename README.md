@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Muhammad Sami — animated developer identity" />
+  <img src="./assets/hero-animated.svg" width="100%" alt="Muhammad Sami — animated developer identity" />
 </p>
 
 <p align="center"><b>I turn ideas into products people can actually use.</b><br />Independent developer building web products, cloud systems &amp; practical AI.</p>
