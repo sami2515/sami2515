@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Muhammad Sami — independent developer">
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101719"/>
+      <stop offset="1" stop-color="#0B1012"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A5D9C2" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#A5D9C2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#BDE6D1" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#BDE6D1" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="19" fill="url(#canvas)" stroke="#263336"/>
+  <circle cx="966" cy="159" r="280" fill="url(#glow)"/>
+
+  <!-- A quiet frame: typographic first, with a custom geometric signature. -->
+  <path d="M62 63H1138" stroke="#344145" stroke-width="1"/>
+  <path d="M62 263H1138" stroke="#344145" stroke-width="1"/>
+  <rect x="62" y="62" width="38" height="2" fill="#BDE6D1"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#92A4A4" font-size="13" font-weight="600" letter-spacing="3.6">
+    <text x="62" y="44">S / 2515</text>
+    <text x="1138" y="44" text-anchor="end">INDEPENDENT DEVELOPER</text>
+  </g>
+
+  <text x="62" y="166" fill="#F1F5F2" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="700" letter-spacing="-3">Muhammad Sami<tspan fill="#BDE6D1">.</tspan></text>
+  <text x="65" y="213" fill="#B2C0BC" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" letter-spacing=".2">Software made thoughtful.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#AABBB6" font-size="12" font-weight="600" letter-spacing="2.9">
+    <text x="62" y="290">WEB SYSTEMS</text>
+    <circle cx="224" cy="286" r="2.25" fill="#BDE6D1"/>
+    <text x="244" y="290">CLOUD</text>
+    <circle cx="344" cy="286" r="2.25" fill="#BDE6D1"/>
+    <text x="364" y="290">APPLIED AI</text>
+  </g>
+
+  <!-- Geometric S-like glyph, constructed as lines and arcs. No external assets. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="997" cy="162" r="94" stroke="#526360" stroke-width="1" stroke-dasharray="1 9" opacity=".75"/>
+    <circle cx="997" cy="162" r="70" stroke="url(#stroke)" stroke-width="1.2"/>
+    <path d="M947 139C947 113 968 96 997 96C1027 96 1048 114 1048 140C1048 163 1029 172 1000 176C971 180 950 190 950 212C950 236 970 249 997 249C1025 249 1047 230 1047 206" stroke="#D4EDE1" stroke-width="4.2"/>
+    <path d="M947 122C961 106 977 102 997 102" stroke="#BDE6D1" stroke-width="4.2"/>
+    <path d="M1047 206C1042 221 1033 230 1020 237" stroke="#BDE6D1" stroke-width="4.2"/>
+    <path d="M905 162H923M1071 162H1089M997 70V88M997 236V254" stroke="#526360" stroke-width="1.5"/>
+    <circle cx="1047" cy="206" r="4.5" fill="#BDE6D1" stroke="none"/>
+    <circle cx="947" cy="139" r="3.5" fill="#D4EDE1" stroke="none"/>
+  </g>
+</svg>
